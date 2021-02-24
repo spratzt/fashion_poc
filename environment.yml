@@ -1,6 +1,8 @@
-name: python 3.8
+name: python 3.7
+channels:
+  - conda-forge
 dependencies:
-  - python=3.8
+  - python=3.7
   - numpy
   - plotly
   - jupyter_dash
