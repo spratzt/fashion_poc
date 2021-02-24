@@ -1,1 +1,10 @@
-
+plotly
+jupyter_dash 
+dash_core_components
+dash_html_components 
+dash.dependencies
+matplotlib.pyplot
+numpy
+pandas
+sidetable
+sqlite3 
