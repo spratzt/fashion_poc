@@ -1,1 +1,12 @@
-
+dependencies:
+  - python=3.7
+  - numpy
+  - plotly
+  - jupyter_dash
+  - dash_core_components
+  - dash_html_components
+  - dash.dependencies
+  - matplotlib.pyplot
+  - pandas
+  - sidetable
+  - sqlite3 
