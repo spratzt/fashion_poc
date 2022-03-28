@@ -1,6 +1,6 @@
 # fashion_poc
 
-This is just a demo of technical competence.
+This is just a demo.
 The brand names are well known but the data is completely synthetic.
 
 
