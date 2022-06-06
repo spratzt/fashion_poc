@@ -1,8 +1,8 @@
-# fashion_poc
+## fashion_poc
 
-This is just a demo.
-The brand names are well known but the data is completely synthetic.
+This is an analysis of fashion data using Plotly and Dash.
 
+It's just a demo. The brand names are well known but the data is completely synthetic.
 
 This demo is available on Binder, although it takes a long time to load. 
 
